@@ -2,3 +2,4 @@ JIMLY RESOLUSI
 - Konsisten belajar pemrograman 4 jam/hari
 - Membuat project kecil-kecilan untuk latihan
 - Evaluasi pembelajaran satu minggu sekali
+- Membuat portofolio pribadi
